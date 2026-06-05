@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea776e94490a1dc46ba4df6451ddd9cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317648
+  packageName: 2D Fantasy Platformer Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D Fantasy Platformer Pack/Objects/Castle/Environment/Animations/Flaming_Torch/flaming_torch_00.controller
+  uploadId: 753689

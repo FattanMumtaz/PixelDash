@@ -1,0 +1,26 @@
+--------------Start----------------
+You wake up in a drop-pod crash site, your HUD flickers to life.
+It reads "Attempt number 489. Distance to Target: 10km".
+You are a Courier, your mission is to carry a volatile Thermal Cell to the city reactor.
+You step out into the harsh winter biome and see a soldier in your exact uniform.
+It is a frozen skeleton but it attacks you, animated by a leaking battery pack.
+You fight off the undead clone and check the dog tags, they read "Courier 488".
+In their pocket a note reads "If the next one finds this... don't look at my face".
+You move forward into the forest where the snow has melted into a radioactive swamp.
+The heat from hundreds of dead couriers has mutated the nature here.
+Mechanical crows circle above, screeching to alert the pack.
+Wolves with exposed wires in their fur rush you, knowing that Courier means food.
+You find a radio log that says "The drones... they are betting on us dying".
+You survive the forest and reach the asphalt city, it is completely silent.
+The streets are blocked by Ice Golems, ancient riot bots protecting the ruins.
+They scan you as an intruder and try to freeze you to preserve the city.
+You fight your way to the central tower, expecting to find survivors.
+But the reactor room is a graveyard, the floor is littered with used Thermal Cells.
+You realize the city has been dead for decades and you are just fuel.
+You plug your cell in anyway and the machine hums for a second.
+"Energy insufficient, please insert more couriers" the AI voice booms.
+You collapse from exhaustion as the screen fades to black.
+The camera pans up and flies all the way back to the military base.
+A fresh drop pod opens and a new clone steps out.
+The HUD reads "Attempt number 490".
+--------------The end-----------------

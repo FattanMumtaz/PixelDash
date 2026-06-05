@@ -1,0 +1,47 @@
+The player is part of an expedition group sent to investigate a remote mountain region where people have reported sightings of 
+strange creatures such as ice golems and skeletons. During the expedition, the player falls down a cliff during a storm and is 
+separated from the rest of the group.
+
+The game begins with the player waking up in the snow, disoriented and injured, struggling to remember what happened. As the player 
+regains control, they begin searching the surrounding area and collecting their scattered equipment, which has fallen across nearby 
+ledges and paths.
+
+After recovering their belongings, the player sets out to find the rest of the expedition and regroup. Along the way, the player 
+encounters a few injured teammates who are on the brink of death. They explain that the group was attacked by strange ice creatures 
+and scattered while trying to escape. One dying member hands the player an ice axe for protection before passing away. Moments later, 
+an ice golem approaches, forcing the player into their first major fight.
+
+After defeating the creature, the player continues deeper into the mountains. Along the journey, they collect supplies and discover 
+notes, broken equipment, and environmental clues that hint at where the remaining members of the expedition may have gone. The player 
+faces hostile wildlife such as wolves, more ice golems, and possibly a powerful boss guarding a critical path forward.
+
+Eventually, the harsh mountains give way to a mysterious and unsettling forest. Upon entering, the player is confronted with a horrifying 
+sight: the bodies of their fallen teammates hanging upside down from trees, while crows feast on their remains. This forest is under the 
+control of skeletal enemies, and the atmosphere feels unnatural and hostile. As the player fights through skeletons and camouflaging 
+mushrooms, they uncover more clues about the fate of the expedition and the true nature of this land.
+
+At the end of the forest stands a massive portal, guarded by a giant skeleton fused with the environment itself. To activate the portal 
+and progress, the player must defeat this powerful guardian.
+
+After defeating the giant skeleton, the player enters the portal and is transported to an abandoned urban area known as Place X(to be named later). 
+The presence of buildings and asphalt suggests that this area was once inhabited and far more advanced than expected.
+
+The player realizes that Place X may hold the answers behind the strange creatures and events in the mountains. While exploring, the player 
+discovers a hidden underground area where several surviving members of the expedition are imprisoned in cells. After freeing them, they 
+reveal the truth: Place X is home to an isolated tribe that avoids all contact with the outside world. The ice golems, skeletons, and other 
+creatures were created by this tribe as defenses to protect their land from intruders.
+The survivors also reveal a shocking betrayal. One member of the expedition, xyz (name to be decided), was a traitor who deliberately led 
+the group into the mountains. His true goal was to offer the expedition as part of a ritual performed by the people of Place X. The 
+sacrifices are made to a massive magical sphere hidden deep within the settlement. This sphere captures the souls of those sacrificed and, 
+in return, grants immortality to the people of Place X. It is later revealed that xyz is the son of the tribe’s chief.
+
+After escaping from their cells, the player and the remaining survivors attempt to find a way back to the outside world. However, their 
+escape does not go unnoticed. The tribe’s soldiers quickly realize that the captives have fled and begin hunting them through the abandoned 
+structures.
+
+As the player fights through these soldiers in search of an exit, they are eventually confronted by the tribe’s head commander. Overpowered, 
+the player is defeated, captured, and brought before xyz.
+
+In the final act, the player breaks free and fights through the tribe’s remaining forces to confront xyz one last time. After defeating him,
+the player and the surviving members of the expedition escape Place X through a portal, finally returning to the outside world—forever 
+changed by the horrors they witnessed.

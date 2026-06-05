@@ -1,0 +1,12 @@
+Library/
+Temp/
+Logs/
+UserSettings/
+.vscode/
+*.sln
+*.slnx
+*.csproj
+.DS_Store
+
+# Visual Studio
+.vs/

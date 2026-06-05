@@ -1,0 +1,72 @@
+FROSTLINE
+==================================================
+
+OVERVIEW
+--------------------------------------------------
+The world is stuck in an endless winter. A disaster called the Static blocked out the sun and broke most technology. People left the cities in a rush, but machines were left running. Snow and cold kept everything frozen in place. Old systems still work, even though no one is there to control them.
+
+You move through this silent world as a runner. Runners carry messages, gather supplies, and keep signals alive so the last systems do not fully collapse.
+
+THE EVENT
+--------------------------------------------------
+When the Static happened, people evacuated fast. Many sealed themselves inside shelters. Automated systems were left to run on their own forever. Over time, these systems became dangerous, following old rules that no longer make sense.
+
+WHO YOU ARE
+--------------------------------------------------
+You are a lone runner with broken memories. You carry orders, tools, and an old transmitter. Staying alive means staying on the move and keeping your Signal strong.
+
+CORE MECHANIC — SIGNAL VS SILENCE
+--------------------------------------------------
+Your Signal affects how the world reacts to you.
+
+High Signal:
+- Maps work
+- NPCs act normally
+- Trading is safe
+
+Low Signal:
+- False sights and sounds
+- Enemies imitate people
+- The world tries to trick you
+
+BIOMES
+--------------------------------------------------
+
+Preserved Winter
+Frozen streets and buildings. Large patrol machines move slowly. Mechanical crows watch from above.
+
+Hushed Forest
+Fungi copy human voices. Roots hide traps under the snow.
+
+Urban Remnant
+Abandoned cities where lights and systems still turn on, even though nothing is really alive.
+
+ENEMIES AND HAZARDS
+--------------------------------------------------
+Ice Golems: Old enforcement machines still following outdated orders.
+Drone-Crows: Steal Signal by blocking transmitters.
+Memory-Fighters: Former people reactivated by broken safety systems.
+Mimic Mushrooms: Play recorded voices to lure you closer.
+Wolves: Real animals, hunting only to survive.
+
+ITEMS
+--------------------------------------------------
+Antennas / Batteries: Keep your Signal running.
+Scrap: Used as money, but heavy to carry.
+Flares / Noise Tools: Confuse machines and disrupt mimics.
+
+STORY FLOW
+--------------------------------------------------
+1. You leave a shelter with a damaged transmitter.
+2. Travel across frozen land and meet other runners.
+3. Enter the forest and learn the truth behind broken systems and rituals.
+4. Explore a ruined town and face what is keeping it running.
+5. Decide your ending: escape the system, or become part of it.
+
+ENVIRONMENTAL STORYTELLING
+--------------------------------------------------
+The world tells its story through graffiti, broken terminals, and repeating warning messages. Nothing explains itself directly, but everything leaves hints.
+
+TONE
+--------------------------------------------------
+A single person against huge systems that do not care anymore. The fear comes from routine, automation, and things continuing long after they should have stopped.

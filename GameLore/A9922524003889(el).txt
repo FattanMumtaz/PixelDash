@@ -1,0 +1,95 @@
+SIGNALBOUND: Narrative & World Bible
+1. The World Concept: The White Static
+Fifty years ago, the Great Freeze coincided with the Static Event. A permanent layer of electromagnetic interference clouded the sky, blocking the sun and freezing the planet.
+Civilization has retreated into underground Bunkers. The surface is a silent graveyard of ice, preserved ruins, and mutated nature.
+The Connection: Bunkers are isolated. The only link between them is "The Frequency" a fragile radio bandwidth that cuts through the static.
+The Economy: Survival depends on "Runners" scavengers who brave the surface to trade parts between bunkers.
+The Threat: The Static isn't just noise; it’s a force. It mutates biology, disrupts electronics, and drives the isolated mad.
+2. Player Identity: Elian Vance
+Who You Are: Elian, the youngest and smallest member of the Vance family. You are not a soldier; you are a "Runt."
+Why You Are Here: The Vance Bunker’s Thermal Core has cracked. The internal temperature is dropping. The family elders are too frail or too large to fit through the emergency ventilation shaft to reach the surface.
+The Mission: You have 3 Days to travel to Sector 0 (The City), negotiate with a black-market dealer named Silas, buy a replacement Core, and return.
+The Stakes: If you fail, the bunker freezes. If you lose the money, the family starves.
+
+3. Enemies: The Disruptors
+Enemies in SignalBound are designed to attack your Resources (Signal/Loot), not just your Health.
+Enemy
+Narrative Origin
+Attack Behavior
+Counter-Play
+
+Crows "Static Eaters"
+Bio-mechanical drones attracted to radio waves. They swarm sources of transmission.
+Jamming: They perch on your antenna. Signal drops to 0%. You lose the Map and Family Advice.
+Flare Gun: Scaring them restores the signal.
+
+Skeletons "The Greedy"
+Frozen corpses of previous runners who refused to drop their heavy loot and froze to death.
+Theft: They ambush from snowdrifts. They grapple you and steal the most valuable item in your bag, retreating to a "Nest."
+Revenge: Track their glowing footprints to the Nest to retrieve the item.
+
+Mushrooms "The Mimics"
+Mutated flora in the Whisper Woods. They absorb radio waves and replay twisted versions of them.
+Deception: They play clips of your Mother screaming "Help me!" or "Run!" to lure you into poison traps.
+The Meter: If Signal is 0% but the Voice is clear -> IT IS A TRAP.
+
+Wolves "The Desperate"
+Starving biological remnants. They represent pure, physical brutality.
+Pressure: They chase Elian into "Dead Zones" (valleys with no signal) where he cannot call for help.
+High Ground: Climb to safety or use Flashbangs.
+
+Golems "The Blockades"
+Industrial mechs frozen mid-work. They are mindless walls.
+Obstruction: They stand in front of trade routes. They cannot be fought.
+Bribe: Give them a Battery to make them move.
+
+
+4. The "Feel" & Atmosphere
+"The Comfort of Noise vs. The Horror of Silence"
+The Safe State (Noise): When you have High Ground, the radio is loud. Your family is arguing, the Sister is roasting you, the Father is doing math. The UI is bright amber. You feel safe because you are "connected."
+The Danger State (Silence): When you enter a Dead Zone, the audio cuts instantly. No static. No voices. Just the crunch of snow and Elian’s breathing. The UI fades away. You feel isolated and small.
+Visuals: High contrast. Blinding white snow, deep black shadows. The Radio Waveform is always visible on Elian’s backpack—it is his heartbeat.
+
+5. Dialogue & Scripting (Early Levels)
+Scene: The Tutorial (Exiting the Bunker)
+Elian steps out into the blinding wind. He extends the antenna.
+Father: "Link established. Signal at 98%. Adjust your frequency, Elian."
+Elian (Inner Thought): It’s louder than I remember. The wind sounds like it’s screaming.
+Father: "Ignore the wind. Focus on the ledger. You have 72 hours. Move."
+Mother: "He sounds cold! Did he take the extra heat pack? I put it on the table!"
+Sister: "Mom, he’s wearing a thermal suit. He’s fine. Elian, stop shivering, you’re shaking the camera feed."
+Scene: Looting Trash (The Sister's Roast)
+Elian picks up a "Broken Toaster."
+Scanner: Item Detected: Old Toaster. Value: Low.
+Sister: "Wow. A toaster. Incredible. We can make toast while we freeze to death. Drop it, genius."
+Mother: "Wait! Maybe Joris can fix it? He likes machines!"
+Father: "It weighs 2kg. The scrap value is 5 credits. The math doesn't work. Leave it."
+Scene: The Trade (Minigame with Signal)
+Elian is trading with Joris. The Signal is GREEN.
+Sister (Whispering): "Okay, look at his eyes. He’s desperate for that battery. Don't sell for less than 80."
+Father: "Agreed. Push him to 85, but be careful. Don't lose the sale."
+(Player sets slider to 82)
+Joris: "82? You Vances are robbers... fine. Deal."
+Sister: "Boom. Easy money. You're welcome."
+Scene: The Dead Zone (Horror)
+Elian enters a deep ravine. The Signal Bar drops. The warm hum vanishes.
+Father: "Elian, you're entering a interference zone. Maintain head-- [Static] --do not-- [Static]"
+Sister: "Dad, we're losing hi-- [Sharp Click]"
+(Silence. Text appears on screen: CONNECTION LOST)
+Elian (Inner Thought): Just breathe. North is that way. Keep moving. Don't look at the shadows.
+
+6. Environmental Storytelling
+Since Elian is often alone, the world speaks through signs, corpses, and logs.
+The "Lena" Logs (Side Story)
+Scattered throughout the world are audio logs from Lena, a runner who died 10 years ago.
+Log 1 (Near Start): "Dad says I'm ready. I'm going to make the family rich. Just watch me."
+Log 2 (Forest): "The signal is weird here. I keep hearing Mom calling my name, but she's back at the bunker. Is the radio broken?"
+Log 3 (City Gates - Beside a Skeleton): "I have the gold. It's so heavy. I should drop it to run faster... but Dad would be so mad. I'll just rest here for a minute. Just a minute."
+(Narrative Payoff: The player finds Lena's skeleton clutching a heavy Gold Bar. If the player takes it, they are over-encumbered, mirroring her mistake.)
+Signs & Warnings
+Forest Entrance Sign:
+WARNING: AUDITORY HAZARD ZONE
+Do not trust voices. Trust your meter.
+If Signal = 0 and Voice = Clear -> RUN.
+Graffiti at Trade Post:
+"Prices for food up 200%. Prices for life down 100%."

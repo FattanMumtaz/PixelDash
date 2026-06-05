@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 03d2418307e83254eb2d72208ee8a9c9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317648
+  packageName: 2D Fantasy Platformer Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D Fantasy Platformer Pack/Objects/Castle/Puzzle Elements/Animations/Laser
+    Beemer/laser_beemer_activated_01.controller
+  uploadId: 753689
